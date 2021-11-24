@@ -1,0 +1,78 @@
+--- 
+files: 
+  certificate: 
+    universesmoc_com_d91fe_43ec1_1580941601_1fe272b88a10ca103331430109eee3eb: 
+      created: '1573169202'
+      domains: 
+        - autodiscover.universesmoc.com
+        - cpanel.universesmoc.com
+        - mail.universesmoc.com
+        - universesmoc.com
+        - webdisk.universesmoc.com
+        - webmail.universesmoc.com
+        - www.universesmoc.com
+      friendly_name: Cert for “universesmoc.com”
+      id: universesmoc_com_d91fe_43ec1_1580941601_1fe272b88a10ca103331430109eee3eb
+      is_self_signed: 0
+      issuer.commonName: Let's Encrypt Authority X3
+      issuer.organizationName: Let's Encrypt
+      modulus: d91fed6bfc70f8ba9f5ce80598f4ea7d73935483969efe0a3e7d1ef2a66e34bcdd392572fda5faa33f5d11e4d4a575b4deb5e777c9a8fc5b950db7cac4aea668ac2ab600d195c4a701ebcf78e506706bc9d0617849b5470e2e4af812fcf679b6d326721acfcf4c68e281de322c6f26020390f9a0ca13b962a8c05b81d722afdc70c7ed7edd772af8e9dd88295a38bda8c3bf88b00fe2f8c8acb9e1d32a146a775f72aae3a35cf3dc59642ee62c2418e3c2e4ad251bf92df0f91e810573c0159437bb42f02d6eb3e8bc8703a9d3cd258c554b66ce6e7f1847ec5ff151cf9eb90ffeda0a0613d73b2ab5ba9d1aae31905e9c4cc1382e7756bff359025331343ec1
+      modulus_length: 2048
+      not_after: '1580941601'
+      not_before: '1573165601'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: universesmoc.com
+      validation_type: dv
+    universesmoc_com_da59d_7dba1_1581119999_89611202d454d719c169ae5aa050255b: 
+      created: '1573319068'
+      domains: 
+        - universesmoc.com
+        - www.universesmoc.com
+      friendly_name: Cert for “universesmoc.com” 1573319068.0
+      id: universesmoc_com_da59d_7dba1_1581119999_89611202d454d719c169ae5aa050255b
+      is_self_signed: 0
+      issuer.commonName: Sectigo RSA Domain Validation Secure Server CA
+      issuer.organizationName: Sectigo Limited
+      modulus: da59dccaed64b0e643c8943814457f39f333f8e5f33e745ed27cadadb99e175e76c39dd1bdd8dae23e798dcfd9d80a3e55b8a9e0ae30925de9d8a97c4ea0a6245f16d1f7595c28a81c17d14e6439bd813efb939e4e7f88b6da991385ccce50a250a27f83ba233a07da088c5597edfb06bbc68de11f4dbea8cb7c08545b95d855cd51f67987ab12bed8da72bc105a901d3cc4e0fbeb6733010926a8ac124ab436eed85b2889db452024e176c24506c7deaa117b3256421fd79d20dd33c32c42c50149fe8e05131e65a7c09f6e0881830e783a0a965f7df6428629059bfbde7010d191cbcd120db902e613c4f851fbe20472dc7b3b28c7f4cd3437bb4d6b97dba1
+      modulus_length: 2048
+      not_after: '1581119999'
+      not_before: '1573257600'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: universesmoc.com
+      validation_type: dv
+  key: 
+    d91fe_43ec1_c31a6d9ffdd828b5c77c6882e4acdc63: 
+      created: '1573169202'
+      friendly_name: Key for “universesmoc.com”
+      id: d91fe_43ec1_c31a6d9ffdd828b5c77c6882e4acdc63
+      modulus: d91fed6bfc70f8ba9f5ce80598f4ea7d73935483969efe0a3e7d1ef2a66e34bcdd392572fda5faa33f5d11e4d4a575b4deb5e777c9a8fc5b950db7cac4aea668ac2ab600d195c4a701ebcf78e506706bc9d0617849b5470e2e4af812fcf679b6d326721acfcf4c68e281de322c6f26020390f9a0ca13b962a8c05b81d722afdc70c7ed7edd772af8e9dd88295a38bda8c3bf88b00fe2f8c8acb9e1d32a146a775f72aae3a35cf3dc59642ee62c2418e3c2e4ad251bf92df0f91e810573c0159437bb42f02d6eb3e8bc8703a9d3cd258c554b66ce6e7f1847ec5ff151cf9eb90ffeda0a0613d73b2ab5ba9d1aae31905e9c4cc1382e7756bff359025331343ec1
+      modulus_length: 2048
+    da59d_7dba1_edc0e416d54ac58181c1e37d4807d3c8: 
+      created: '1573319068'
+      friendly_name: Key for “universesmoc.com” 1573319068.0
+      id: da59d_7dba1_edc0e416d54ac58181c1e37d4807d3c8
+      modulus: da59dccaed64b0e643c8943814457f39f333f8e5f33e745ed27cadadb99e175e76c39dd1bdd8dae23e798dcfd9d80a3e55b8a9e0ae30925de9d8a97c4ea0a6245f16d1f7595c28a81c17d14e6439bd813efb939e4e7f88b6da991385ccce50a250a27f83ba233a07da088c5597edfb06bbc68de11f4dbea8cb7c08545b95d855cd51f67987ab12bed8da72bc105a901d3cc4e0fbeb6733010926a8ac124ab436eed85b2889db452024e176c24506c7deaa117b3256421fd79d20dd33c32c42c50149fe8e05131e65a7c09f6e0881830e783a0a965f7df6428629059bfbde7010d191cbcd120db902e613c4f851fbe20472dc7b3b28c7f4cd3437bb4d6b97dba1
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      d91fed6bfc70f8ba9f5ce80598f4ea7d73935483969efe0a3e7d1ef2a66e34bcdd392572fda5faa33f5d11e4d4a575b4deb5e777c9a8fc5b950db7cac4aea668ac2ab600d195c4a701ebcf78e506706bc9d0617849b5470e2e4af812fcf679b6d326721acfcf4c68e281de322c6f26020390f9a0ca13b962a8c05b81d722afdc70c7ed7edd772af8e9dd88295a38bda8c3bf88b00fe2f8c8acb9e1d32a146a775f72aae3a35cf3dc59642ee62c2418e3c2e4ad251bf92df0f91e810573c0159437bb42f02d6eb3e8bc8703a9d3cd258c554b66ce6e7f1847ec5ff151cf9eb90ffeda0a0613d73b2ab5ba9d1aae31905e9c4cc1382e7756bff359025331343ec1: 
+        universesmoc_com_d91fe_43ec1_1580941601_1fe272b88a10ca103331430109eee3eb: ~
+      da59dccaed64b0e643c8943814457f39f333f8e5f33e745ed27cadadb99e175e76c39dd1bdd8dae23e798dcfd9d80a3e55b8a9e0ae30925de9d8a97c4ea0a6245f16d1f7595c28a81c17d14e6439bd813efb939e4e7f88b6da991385ccce50a250a27f83ba233a07da088c5597edfb06bbc68de11f4dbea8cb7c08545b95d855cd51f67987ab12bed8da72bc105a901d3cc4e0fbeb6733010926a8ac124ab436eed85b2889db452024e176c24506c7deaa117b3256421fd79d20dd33c32c42c50149fe8e05131e65a7c09f6e0881830e783a0a965f7df6428629059bfbde7010d191cbcd120db902e613c4f851fbe20472dc7b3b28c7f4cd3437bb4d6b97dba1: 
+        universesmoc_com_da59d_7dba1_1581119999_89611202d454d719c169ae5aa050255b: ~
+    subject.commonName: 
+      universesmoc.com: 
+        universesmoc_com_d91fe_43ec1_1580941601_1fe272b88a10ca103331430109eee3eb: ~
+        universesmoc_com_da59d_7dba1_1581119999_89611202d454d719c169ae5aa050255b: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “universesmoc.com”: universesmoc_com_d91fe_43ec1_1580941601_1fe272b88a10ca103331430109eee3eb
+      Cert for “universesmoc.com” 1573319068.0: universesmoc_com_da59d_7dba1_1581119999_89611202d454d719c169ae5aa050255b
+  key: 
+    friendly_name: 
+      Key for “universesmoc.com”: d91fe_43ec1_c31a6d9ffdd828b5c77c6882e4acdc63
+      Key for “universesmoc.com” 1573319068.0: da59d_7dba1_edc0e416d54ac58181c1e37d4807d3c8
+    modulus: 
+      d91fed6bfc70f8ba9f5ce80598f4ea7d73935483969efe0a3e7d1ef2a66e34bcdd392572fda5faa33f5d11e4d4a575b4deb5e777c9a8fc5b950db7cac4aea668ac2ab600d195c4a701ebcf78e506706bc9d0617849b5470e2e4af812fcf679b6d326721acfcf4c68e281de322c6f26020390f9a0ca13b962a8c05b81d722afdc70c7ed7edd772af8e9dd88295a38bda8c3bf88b00fe2f8c8acb9e1d32a146a775f72aae3a35cf3dc59642ee62c2418e3c2e4ad251bf92df0f91e810573c0159437bb42f02d6eb3e8bc8703a9d3cd258c554b66ce6e7f1847ec5ff151cf9eb90ffeda0a0613d73b2ab5ba9d1aae31905e9c4cc1382e7756bff359025331343ec1: d91fe_43ec1_c31a6d9ffdd828b5c77c6882e4acdc63
+      da59dccaed64b0e643c8943814457f39f333f8e5f33e745ed27cadadb99e175e76c39dd1bdd8dae23e798dcfd9d80a3e55b8a9e0ae30925de9d8a97c4ea0a6245f16d1f7595c28a81c17d14e6439bd813efb939e4e7f88b6da991385ccce50a250a27f83ba233a07da088c5597edfb06bbc68de11f4dbea8cb7c08545b95d855cd51f67987ab12bed8da72bc105a901d3cc4e0fbeb6733010926a8ac124ab436eed85b2889db452024e176c24506c7deaa117b3256421fd79d20dd33c32c42c50149fe8e05131e65a7c09f6e0881830e783a0a965f7df6428629059bfbde7010d191cbcd120db902e613c4f851fbe20472dc7b3b28c7f4cd3437bb4d6b97dba1: da59d_7dba1_edc0e416d54ac58181c1e37d4807d3c8

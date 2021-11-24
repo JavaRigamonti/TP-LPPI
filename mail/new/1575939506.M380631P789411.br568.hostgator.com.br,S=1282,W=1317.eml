@@ -1,0 +1,35 @@
+Return-Path: <>
+Delivered-To: unive271@br568.hostgator.com.br
+Received: from br568.hostgator.com.br
+	by br568.hostgator.com.br with LMTP
+	id WPCRFrLt7l2jCwwAVLYAyQ
+	(envelope-from <>)
+	for <unive271@br568.hostgator.com.br>; Mon, 09 Dec 2019 21:58:26 -0300
+Return-path: <>
+Envelope-to: unive271@br568.hostgator.com.br
+Delivery-date: Mon, 09 Dec 2019 21:58:26 -0300
+Received: from mailnull by br568.hostgator.com.br with local (Exim 4.92)
+	id 1ieTr8-003Lr2-8j
+	for unive271@br568.hostgator.com.br; Mon, 09 Dec 2019 21:58:26 -0300
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@br568.hostgator.com.br>
+To: unive271@br568.hostgator.com.br
+Subject: Mail failure - no recipient addresses
+Message-Id: <E1ieTr8-003Lr2-8j@br568.hostgator.com.br>
+Date: Mon, 09 Dec 2019 21:58:26 -0300
+
+A message that you sent contained no recipient addresses, and therefore no
+delivery could be attempted.
+
+------ This is a copy of your message, including all the headers. ------
+
+To: 
+Subject: Verificando o correio do PHP
+X-PHP-Script:  for 
+X-PHP-Originating-Script: 1251:envia_email.php
+De:suporte@universesmoc.com
+Message-Id: <E1ieTr8-003Lql-7b@br568.hostgator.com.br>
+From: unive271@br568.hostgator.com.br
+Date: Mon, 09 Dec 2019 21:58:26 -0300
+
+O correio do PHP funciona bem

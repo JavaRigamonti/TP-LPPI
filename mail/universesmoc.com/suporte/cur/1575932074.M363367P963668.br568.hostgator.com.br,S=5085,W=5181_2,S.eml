@@ -1,0 +1,96 @@
+Return-Path: <bounces+14099481-27be-suporte=universesmoc.com@sendgrid.net>
+Delivered-To: suporte@universesmoc.com
+Received: from br568.hostgator.com.br
+	by br568.hostgator.com.br with LMTP
+	id kKS2FKrQ7l1UtA4AVLYAyQ
+	(envelope-from <bounces+14099481-27be-suporte=universesmoc.com@sendgrid.net>)
+	for <suporte@universesmoc.com>; Mon, 09 Dec 2019 19:54:34 -0300
+Return-path: <bounces+14099481-27be-suporte=universesmoc.com@sendgrid.net>
+Envelope-to: suporte@universesmoc.com
+Delivery-date: Mon, 09 Dec 2019 19:54:34 -0300
+Received: from o167-89-105-233.outbound-mail.sendgrid.net ([167.89.105.233]:53995)
+	by br568.hostgator.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <bounces+14099481-27be-suporte=universesmoc.com@sendgrid.net>)
+	id 1ieRvF-004DZo-QD
+	for suporte@universesmoc.com; Mon, 09 Dec 2019 19:54:34 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net; 
+	h=content-transfer-encoding:content-type:from:mime-version:to:subject; 
+	s=smtpapi; bh=Kv3LLoC2elck4eaa2FBbxNa9c4+wjE2ppgUPbKhQtVY=; b=fM
+	wHOg40xcV7p9uDX9+arDFGfpbSAvQdkXmW8UZQdZ0La9Se/253zbwATFBrn/HKwP
+	s+gGEBJlXXLaXWeHJBDUNI8mHAhBJHnWfDsPrbIQ5C39UGOxzniELv7KONp3jA04
+	eIWPE8ZPajFphIFhsk4yAQF2oQzJYfIaebyB0wkdg=
+Received: by filter0921p1iad2.sendgrid.net with SMTP id filter0921p1iad2-8042-5DEED09E-15
+        2019-12-09 22:54:22.406764872 +0000 UTC m=+441275.210907617
+Received: from MTQwOTk0ODE (br568.hostgator.com.br [108.179.253.50])
+	by ismtpd0008p1sjc2.sendgrid.net (SG) with HTTP id Lik1YM3cQ-mxZH_RLop4KQ
+	Mon, 09 Dec 2019 22:54:22.076 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 09 Dec 2019 22:54:22 +0000 (UTC)
+From: suporte@universesmoc.com
+Mime-Version: 1.0
+To: suporte@universesmoc.com
+Message-ID: <Lik1YM3cQ-mxZH_RLop4KQ@ismtpd0008p1sjc2.sendgrid.net>
+X-SG-EID: fVxZwmq4t3fYFMPRJo3vp1YZZIZJlqrS0gw82PapUihbxEcHR/KljNel1WgFyS5F3MLusB27YmDaLa
+ IPVZlDUiIBFHPo6mZ3dfTG/UbwZLNTssk2kxf7bGv0y+yn5mgxAn+uXBm3e+o2K8YEk1qwjqSt/48S
+ QPHFk0IcSOwjYlKg6Cs9xshs4bG5u4GfWNF9MaCZP46IBepe0dfoyfb6Gg==
+X-Spam-Status: Yes, score=5.3
+X-Spam-Score: 53
+X-Spam-Bar: +++++
+X-Spam-Report: Spam detection software, running on the system "br568.hostgator.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Olá equipe Universe!, Nova mensagem de contato Nome: Email:
+    Numero de Contato: Assunto tratado: 
+ 
+ Content analysis details:   (5.3 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: sendgrid.net]
+ -0.5 SPF_PASS               SPF: sender matches SPF record
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.6 HTML_IMAGE_ONLY_12     BODY: HTML: images with 800-1200 bytes of
+                             words
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.6 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML
+                             tag
+  3.2 HELO_DYNAMIC_IPADDR    Relay HELO'd using suspicious hostname (IP
+                             addr 1)
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: YES
+Subject: [SPAM] Mensagem de contato
+
+Ol=C3=A1 equipe Universe!,=20
+            <br><br>
+            Nova mensagem de contato
+            <br><br>
+            Nome:  <br>
+            Email:  <br>
+            Numero de Contato:  <br>
+            Assunto tratado:  <br><br>
+            Mensagem: <br> <img src=3D"https://u14099481.ct.sendgrid.net/wf=
+/open?upn=3DfALtSlDLiUJCjSqZrB4vD-2B76brw2s1sxQUZr6rbkF8v1lCCTMEoD6Yb9MyaA5=
+vxmhNvVoBP-2BOaIxLSB7nwb4Mb29kYUL-2Bg09-2BuK733YkMc5s0LPOP9L7ymsnfAJjK9nXlZ=
+6aif-2BSpqnm1m0nPfg26NFBHgvd-2Fk4U1JvOvQNja5g-2FtgSQzYhO5OGfbplnz7d336JF0Xg=
+r04oIa37-2B9pREXmDE-2FRn2VpENYU90Tjyai3A-3D" alt=3D"" width=3D"1" height=3D=
+"1" border=3D"0" style=3D"height:1px !important;width:1px !important;border=
+-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;marg=
+in-right:0 !important;margin-left:0 !important;padding-top:0 !important;pad=
+ding-bottom:0 !important;padding-right:0 !important;padding-left:0 !importa=
+nt;"/>

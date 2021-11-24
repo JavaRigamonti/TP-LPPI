@@ -1,0 +1,139 @@
+Return-Path: <>
+Delivered-To: unive271@br568.hostgator.com.br
+Received: from br568.hostgator.com.br
+	by br568.hostgator.com.br with LMTP
+	id x3MTAQ2x710ZeQ4AVLYAyQ
+	(envelope-from <>)
+	for <unive271@br568.hostgator.com.br>; Tue, 10 Dec 2019 11:51:57 -0300
+Return-path: <>
+Envelope-to: unive271@br568.hostgator.com.br
+Delivery-date: Tue, 10 Dec 2019 11:51:57 -0300
+Received: from gateway20.websitewelcome.com ([192.185.55.25]:27225)
+	by br568.hostgator.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	id 1iegrj-003yQD-UK
+	for unive271@br568.hostgator.com.br; Tue, 10 Dec 2019 11:51:56 -0300
+Received: by gateway20.websitewelcome.com (Postfix)
+	id ACE7E4010E52D; Tue, 10 Dec 2019 07:37:58 -0600 (CST)
+Date: Tue, 10 Dec 2019 07:37:58 -0600 (CST)
+From: MAILER-DAEMON@gateway20.websitewelcome.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: unive271@br568.hostgator.com.br
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="BFA4F41BB5BE4.1575985078/gateway20.websitewelcome.com"
+Message-Id: <20191210133758.ACE7E4010E52D@gateway20.websitewelcome.com>
+X-Spam-Status: No, score=0.5
+X-Spam-Score: 5
+X-Spam-Bar: /
+X-Spam-Flag: NO
+
+This is a MIME-encapsulated message.
+
+--BFA4F41BB5BE4.1575985078/gateway20.websitewelcome.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host gateway20.websitewelcome.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<tadeu@gmail.com>: host gmail-smtp-in.l.google.com[173.194.67.26] said:
+    550-5.1.1 The email account that you tried to reach does not exist. Please
+    try 550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser w187si1814637oia.166 - gsmtp
+    (in reply to RCPT TO command)
+
+--BFA4F41BB5BE4.1575985078/gateway20.websitewelcome.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gateway20.websitewelcome.com
+X-Postfix-Queue-ID: BFA4F41BB5BE4
+X-Postfix-Sender: rfc822; unive271@br568.hostgator.com.br
+Arrival-Date: Tue, 10 Dec 2019 07:21:40 -0600 (CST)
+
+Final-Recipient: rfc822; tadeu@gmail.com
+Original-Recipient: rfc822;tadeu@gmail.com
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does
+    not exist. Please try 550-5.1.1 double-checking the recipient's email
+    address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser w187si1814637oia.166 - gsmtp
+
+--BFA4F41BB5BE4.1575985078/gateway20.websitewelcome.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <unive271@br568.hostgator.com.br>
+Received: from cm10.websitewelcome.com (cm10.websitewelcome.com [100.42.49.4])
+	by gateway20.websitewelcome.com (Postfix) with ESMTP id BFA4F41BB5BE4
+	for <tadeu@gmail.com>; Tue, 10 Dec 2019 07:21:40 -0600 (CST)
+Received: from br568.hostgator.com.br ([108.179.253.50])
+	by cmsmtp with SMTP
+	id egYSi6vlbHunhegYSiOhA1; Tue, 10 Dec 2019 08:32:00 -0600
+X-Authority-Reason: ss=1
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=universesmoc.com; s=default; h=Date:From:Message-Id:Subject:To:Sender:
+	Reply-To:Cc:MIME-Version:Content-Type:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=b/+7uobx65Pu/VjIAKfCRrn7Uk6orFKjGOMDIQWD51E=; b=O7omMjaDcWyzQ5ZEwgmou6FF9Z
+	DpNFeoRWo488bl+l4hFYGfUe5VOKV6Nf0mXup7zMupbOs8KElVpnP/eHILVLoAWk7XHH9oyiA3Ph8
+	hi/4boFWWU1eiBCfQ/zGFjnnhDQVgsDVGx6Ofg6Xb4/Q1/FiX+Rd9FLVIdQV80bzAM0TkH1jJuQel
+	58f6WzQE8487KeWmyhH9lvCSE3IbKd9oQWF5KX7msATuuZGhvf8kM8lJV+hIJlB4c4jhgiWhChSLv
+	uIv0EgK9kRbaa1hUyx6dpgi1EbaSGAL6YSfQyUW1Iw8uaC63/my/ToFB+ctTmltXWuMuheNIrS6Ci
+	0TPn/JeQ==;
+Received: from unive271 by br568.hostgator.com.br with local (Exim 4.92)
+	(envelope-from <unive271@br568.hostgator.com.br>)
+	id 1iegYS-003N9u-DU
+	for tadeu@gmail.com; Tue, 10 Dec 2019 11:32:00 -0300
+To: tadeu@gmail.com
+Subject: Confirmação de Matrícula
+X-PHP-Script:  for 
+X-PHP-Originating-Script: 1251:envia_email.php
+De:suporte@universesmoc.com
+Message-Id: <E1iegYS-003N9u-DU@br568.hostgator.com.br>
+From: unive271@br568.hostgator.com.br
+Date: Tue, 10 Dec 2019 11:32:00 -0300
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - br568.hostgator.com.br
+X-AntiAbuse: Original Domain - gmail.com
+X-AntiAbuse: Originator/Caller UID/GID - [1251 497] / [47 12]
+X-AntiAbuse: Sender Address Domain - br568.hostgator.com.br
+X-BWhitelist: no
+X-Source-IP: 
+X-Source-L: No
+X-Exim-ID: 1iegYS-003N9u-DU
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: universesmoc.com:/public_html
+X-Source-Sender: 
+X-Source-Auth: unive271
+X-Email-Count: 1
+X-Org: HG=hgshared_br;ORG=latam;
+X-Source-Cap: dW5pdmUyNzE7dW5pdmUyNzE7YnI1NjguaG9zdGdhdG9yLmNvbS5icg==
+X-Local-Domain: yes
+
+Olá, tudo bem? 
+
+Este é email é para você confirmar a matrícula da sua criança.
+É só clicar no link abaixo:            
+           
+            
+            liiiiiinkkkk
+
+--BFA4F41BB5BE4.1575985078/gateway20.websitewelcome.com--

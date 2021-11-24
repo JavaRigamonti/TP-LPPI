@@ -1,0 +1,25 @@
+Return-Path: <unive271@br568.hostgator.com.br>
+Delivered-To: suporte@universesmoc.com
+Received: from br568.hostgator.com.br
+	by br568.hostgator.com.br with LMTP
+	id MNqdJYT07l02uQ4AVLYAyQ
+	(envelope-from <unive271@br568.hostgator.com.br>)
+	for <suporte@universesmoc.com>; Mon, 09 Dec 2019 22:27:32 -0300
+Return-path: <unive271@br568.hostgator.com.br>
+Envelope-to: suporte@universesmoc.com
+Delivery-date: Mon, 09 Dec 2019 22:27:32 -0300
+Received: from unive271 by br568.hostgator.com.br with local (Exim 4.92)
+	(envelope-from <unive271@br568.hostgator.com.br>)
+	id 1ieUJI-004OT7-BE
+	for suporte@universesmoc.com; Mon, 09 Dec 2019 22:27:32 -0300
+To: suporte@universesmoc.com
+Subject: Verificando o correio do PHP
+X-PHP-Script:  for 
+X-PHP-Originating-Script: 1251:envia_email.php
+Message-Id: <E1ieUJI-004OT7-BE@br568.hostgator.com.br>
+From: unive271@br568.hostgator.com.br
+Date: Mon, 09 Dec 2019 22:27:32 -0300
+
+O correio do PHP funciona bem
+
+iago.novoa.antunes@gmail.com

@@ -1,0 +1,111 @@
+Return-Path: <bounces+14099481-27be-suporte=universesmoc.com@sendgrid.net>
+Delivered-To: suporte@universesmoc.com
+Received: from br568.hostgator.com.br
+	by br568.hostgator.com.br with LMTP
+	id OHwBNtnV8l0qDQ8AVLYAyQ
+	(envelope-from <bounces+14099481-27be-suporte=universesmoc.com@sendgrid.net>)
+	for <suporte@universesmoc.com>; Thu, 12 Dec 2019 21:05:45 -0300
+Return-path: <bounces+14099481-27be-suporte=universesmoc.com@sendgrid.net>
+Envelope-to: suporte@universesmoc.com
+Delivery-date: Thu, 12 Dec 2019 21:05:45 -0300
+Received: from o167-89-105-233.outbound-mail.sendgrid.net ([167.89.105.233]:17969)
+	by br568.hostgator.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <bounces+14099481-27be-suporte=universesmoc.com@sendgrid.net>)
+	id 1ifYSn-004BpH-Cd
+	for suporte@universesmoc.com; Thu, 12 Dec 2019 21:05:45 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to;
+	s=smtpapi; bh=hBVR/vI1Th8WpHw3A3770obbAC9CCGXUgllOBW55BjI=;
+	b=d4fLSP9VccnYOF2rFBWXYiJnxt5nbEiEGsc9zon2fzyPG5K9Hq2OJu0mqnQnxf5vxs0n
+	negfJ+dqgiF9e7575YkwT1+i5x4SEc10jErptD7L06pmOa9Z43rjNYXHpoilrivweoE3/s
+	zkZT6AFNDD8hLzjigdbwO4p9uavBLavFY=
+Received: by filter0080p3iad2.sendgrid.net with SMTP id filter0080p3iad2-3241-5DF2D5CD-46
+        2019-12-13 00:05:33.805833219 +0000 UTC m=+20398.755411764
+Received: from MTQwOTk0ODE (unknown [108.179.253.50])
+	by ismtpd0003p1sjc2.sendgrid.net (SG) with HTTP id HjszO-EvRwiBDLNXvujzdQ
+	Fri, 13 Dec 2019 00:05:33.652 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Fri, 13 Dec 2019 00:05:33 +0000 (UTC)
+From: gersonrangelgarciapc@gmail.com
+Mime-Version: 1.0
+Message-ID: <HjszO-EvRwiBDLNXvujzdQ@ismtpd0003p1sjc2.sendgrid.net>
+X-SG-EID: 
+ =?us-ascii?Q?saMAxkeGrF58OGk9z3Qy0P54iCUA8c7yUdUa6VQZXaw0nNDiEd3OY1tMP660jQ?=
+ =?us-ascii?Q?tmbOVNpuFZ8Ewif2NiTCa=2FPnoRTAAymIBKCf5iQ?=
+ =?us-ascii?Q?bR50BeRX6i6IVwakxqmwamEB3xfTUhgvAsgaJod?=
+ =?us-ascii?Q?pNM4e297CHyTjU4ZHDPoZ5OwcQr0T8kk6JaK+Iz?=
+ =?us-ascii?Q?oB6RpP7dkZ0ju82Agjq2fOUzodQlyOKh9V3dprK?=
+ =?us-ascii?Q?RVA5+216wNFonPau4=3D?=
+To: suporte@universesmoc.com
+X-Spam-Status: Yes, score=7.0
+X-Spam-Score: 70
+X-Spam-Bar: +++++++
+X-Spam-Report: Spam detection software, running on the system "br568.hostgator.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Olá equipe Universe!, Nova mensagem de contato Nome: Gerson
+    Email: gersonrangelgarciapc@gmail.com Numero de Contato: 13988442982 Assunto
+    tratado: Seilá mano 
+ 
+ Content analysis details:   (7.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: sendgrid.net]
+  0.5 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             (gersonrangelgarciapc[at]gmail.com)
+  0.0 DKIM_ADSP_CUSTOM_MED   No valid author signature, adsp_override is
+                              CUSTOM_MED
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+ -0.5 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  1.6 HTML_IMAGE_ONLY_12     BODY: HTML: images with 800-1200 bytes of
+                             words
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.6 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML
+                             tag
+  0.0 FREEMAIL_FORGED_FROMDOMAIN 2nd level domains in From and
+                             EnvelopeFrom freemail headers are
+                             different
+  3.2 HELO_DYNAMIC_IPADDR    Relay HELO'd using suspicious hostname (IP
+                             addr 1)
+  1.2 NML_ADSP_CUSTOM_MED    ADSP custom_med hit, and not from a mailing
+                             list
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: YES
+Subject: [SPAM] Mensagem de contato
+
+Ol=E1 equipe Universe!,=20
+            <br><br>
+            Nova mensagem de contato
+            <br><br>
+            Nome: Gerson <br>
+            Email: gersonrangelgarciapc@gmail.com <br>
+            Numero de Contato: 13988442982 <br>
+            Assunto tratado: Seil=E1 mano <br><br>
+            Mensagem: <br> VAI SE FUDE<img src=3D"https://u14099481.ct.send=
+grid.net/wf/open?upn=3DfALtSlDLiUJCjSqZrB4vD-2B76brw2s1sxQUZr6rbkF8tixeQE57=
+9w3f1d1WESsaNplcFShSUnO-2BlplagelfuAtjRdalzfSx9X9BgcpzL9cOcHofk1RIB-2FEAsz-=
+2FsATtcLrcMkuvUJLgds-2BvtbDTRnT-2BWUhuYrSuzhbs6YwVm9-2Bv5lS5NxEPXFzX5Nhx2E-=
+2Bm098OgJWvMgXa7Y7doloqdyeN8-2FaqT6N-2BfI-2BrLmbbFKy3Ds-3D" alt=3D"" width=
+=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !=
+important;border-width:0 !important;margin-top:0 !important;margin-bottom:0=
+ !important;margin-right:0 !important;margin-left:0 !important;padding-top:=
+0 !important;padding-bottom:0 !important;padding-right:0 !important;padding=
+-left:0 !important;"/>

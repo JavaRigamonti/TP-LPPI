@@ -1,0 +1,37 @@
+Return-Path: <>
+Delivered-To: unive271@br568.hostgator.com.br
+Received: from br568.hostgator.com.br
+	by br568.hostgator.com.br with LMTP
+	id iNG6NjLs7l2W2woAVLYAyQ
+	(envelope-from <>)
+	for <unive271@br568.hostgator.com.br>; Mon, 09 Dec 2019 21:52:02 -0300
+Return-path: <>
+Envelope-to: unive271@br568.hostgator.com.br
+Delivery-date: Mon, 09 Dec 2019 21:52:03 -0300
+Received: from mailnull by br568.hostgator.com.br with local (Exim 4.92)
+	id 1ieTkw-003ASW-Nz
+	for unive271@br568.hostgator.com.br; Mon, 09 Dec 2019 21:52:02 -0300
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@br568.hostgator.com.br>
+To: unive271@br568.hostgator.com.br
+Subject: Mail failure - no recipient addresses
+Message-Id: <E1ieTkw-003ASW-Nz@br568.hostgator.com.br>
+Date: Mon, 09 Dec 2019 21:52:02 -0300
+
+A message that you sent contained no recipient addresses, and therefore no
+delivery could be attempted.
+
+------ This is a copy of your message, including all the headers. ------
+
+To: 
+Subject: Cadastro no  Site
+X-PHP-Script:  for 
+X-PHP-Originating-Script: 1251:envia_email.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: $nome <$email>
+From: $nome <$email@br568.hostgator.com.br>
+Message-Id: <E1ieTkw-003ASL-NC@br568.hostgator.com.br>
+Date: Mon, 09 Dec 2019 21:52:02 -0300
+
+
